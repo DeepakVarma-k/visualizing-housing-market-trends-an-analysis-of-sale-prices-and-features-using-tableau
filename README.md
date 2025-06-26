@@ -14,7 +14,7 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 - Provide a data-driven view of the housing market to support decision-making.
 - Visualize housing trends in an interactive, accessible format.
 
----
+
 
 ## 🔍 Key Scenarios & Visualizations
 
@@ -41,14 +41,14 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 - Grouped bar chart categorizing house age by key features.
 - Identifies patterns in buyer preferences and house characteristics over time.
 
----
+
 
 ## 🌐 Live Visualizations
 
 - 📊 **Dashboard**: [Comprehensive House Price Analysis](https://public.tableau.com/app/profile/bhuvana.surya.priya.pinninti/viz/VisualizingHousingMaketTrends/ComprehensiveHousePriceAnalysis)  
 - 📖 **Story**: [Housing Market Trends Story](https://public.tableau.com/app/profile/bhuvana.surya.priya.pinninti/viz/VisualizingHousingMaketTrendsStory/HousingMarketTrendsStory)
 
----
+
 
 ## 🛠 Tools Used
 
@@ -56,7 +56,7 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 - **Tableau Prep** (for initial data preparation)
 - **GitHub** – Version control and project hosting
 
----
+
 
 ## 👥 Team Members
 
@@ -74,15 +74,13 @@ Interactive visualizations created in **Tableau** allow stakeholders—including
 
 
 
----
-
 ## 🚀 Future Enhancements
 
 - Add predictive analytics for future price trends.
 - Integrate external datasets (e.g., crime rate, proximity to amenities).
 - Expand to multiple cities or time-based trends for broader analysis.
 
----
+
 
 
 
